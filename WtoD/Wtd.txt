@@ -1,0 +1,46 @@
+Here i am gonna add questions to be asked for anime recommandation system !!!!!!!!
+
+Q1 : Have you delved into the world of anime before, perhaps?
+
+a. Yes
+
+b. No
+
+
+Q2 :  Do you find solace and excitement in the captivating world of anime?
+
+a. Yes :--> Excellent! Together, let's uncover the anime destined to resonate with your soul
+
+b. NO :--> Fear not! We shall embark on a quest to discover the ideal anime suited just for you!
+
+
+Q3 a : What anime holds the cherished place in the depths of your heart ?
+    
+--> take input of user's fav anime and then sort anime according to similarity , drop original anime 
+
+
+
+Q4,3 a,b : What genres stir the flames of passion within your soul?( input will be MCQ {more than one can be selected })
+   OPTIONS :--> {['Adventure', 'Action', ' Mystery', ' Sci-Fi', 'Ecchi', 'Fantasy', ' Comedy', 'Supernatural', 'Girls Love', 'Sports', 'Romance', ' Horror', ' Fantasy', ' Girls Love', 'Hentai', 'Horror', 'Award Winning', 'Erotica', ' Adventure', ' Slice of Life', ' Drama', 'Gourmet', ' Romance', 'Sci-Fi', 'Drama', ' Boys Love', ' Gourmet', 'Boys Love', ' Suspense', ' Award Winning', ' Sports', 'Slice of Life', 'UNKNOWN', ' Supernatural', 'Avant Garde', ' Hentai', ' Erotica', 'Suspense', ' Avant Garde', ' Ecchi', 'Comedy', 'Mystery'] }
+
+--> drop anime other than selected genres
+
+
+Q4 : What rating of anime ignites your passion for adventure? ( input will be MCQ {only one} )
+    OPTIONS :--> ['R - 17+ (violence & profanity)', 'PG-13 - Teens 13 or older',
+       'PG - Children', 'R+ - Mild Nudity', 'G - All Ages', 'Rx - Hentai','Any'] any(if 'any' select all)
+--> other than selected one all are droped .
+
+
+Q5 : What kind of anime sets your heart ablaze with anticipation? ( input will be MCQ {only one} )
+    OPTIONS :--> ['TV', 'Movie', 'OVA', 'Special', 'ONA', 'Music','Any'] any(if 'any' select all )
+--> other than selected one all are droped .
+
+
+
+
+
+
+
+
+
